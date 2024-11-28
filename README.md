@@ -16,6 +16,7 @@ This is a browser extension built using **WXT** and **React**. It allows you to 
 
    ```bash
    git clone https://github.com/yourusername/wxt-react-extension.git
+   
    cd wxt-react-extension
 2. **Install dependencies:**
 
