@@ -95,7 +95,6 @@ const followAllUsers = async (): Promise<void> => {
       followButton.click();
       await delay(5000);
 
-      // Clear the hover pop-up
       avatar.dispatchEvent(new MouseEvent("mouseout", { bubbles: true }));
       console.log(`Hover pop-up closed for user ${i + 1}.`);
       await delay(500);
