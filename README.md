@@ -16,16 +16,16 @@ This is a browser extension built using **WXT** and **React**. It allows you to 
 
    ```bash
    git clone https://github.com/yourusername/wxt-react-extension.git
-   cd wxt-react-extension```
+   cd wxt-react-extension
 2. **Install dependencies:**
 
     ```bash
-    npm install```
+    npm install
 
 3. **Run the extension:**
 
     ```bash
-    npm run dev```
+    npm run dev
 
 
 ## How It Works
